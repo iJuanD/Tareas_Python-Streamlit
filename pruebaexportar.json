@@ -1,0 +1,44 @@
+[
+    {
+        "id": 4,
+        "titulo": "Investigacion",
+        "descripcion": "Investigar sobre Python avanzado",
+        "estado": false
+    },
+    {
+        "id": 6,
+        "titulo": "Preparar informe",
+        "descripcion": "Crear el informe mensual de actividades",
+        "estado": false
+    },
+    {
+        "id": 7,
+        "titulo": "Prueba del sistema",
+        "descripcion": "Hacer pruebas de integracion",
+        "estado": true
+    },
+    {
+        "id": 8,
+        "titulo": "Planificacion",
+        "descripcion": "Definir las tareas del próximo sprint",
+        "estado": false
+    },
+    {
+        "id": 10,
+        "titulo": "Actualizacion",
+        "descripcion": "Actualizar dependencias del sistema",
+        "estado": false
+    },
+    {
+        "id": 11,
+        "titulo": "Guardado",
+        "descripcion": "Guardar dependencias del sistema",
+        "estado": false
+    },
+    {
+        "id": 12,
+        "titulo": "Verificacion",
+        "descripcion": "Verificacion de dependencias del sistema",
+        "estado": true
+    }
+]
