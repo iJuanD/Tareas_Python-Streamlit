@@ -50,7 +50,7 @@ Este proyecto es una aplicación desarrollada en **Python** que permite gestiona
 las puedes instalar con el siguiente comando
 pip install -r requirements.txt
 
-Ejecuta la aplicación con el comando:
+## Ejecuta la aplicación con el comando:
 
-- ** streamlit run app.py
-
+```bash
+streamlit run app.py
