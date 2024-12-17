@@ -81,3 +81,6 @@ Importar una tarea
 ![image](https://github.com/user-attachments/assets/f44dc16e-5964-4c91-b307-136312da0d67)
 
 
+## Analisis Realizado con SonarQube Community
+![image](https://github.com/user-attachments/assets/369d6878-6101-47cd-849d-1220d45df2ef)
+
